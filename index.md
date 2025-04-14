@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hello! My name is Ashton and I am an amateur programmer
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I main Rust (without being a snob about it, most times)
