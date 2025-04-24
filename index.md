@@ -37,6 +37,7 @@ Stack Based VM for a New Language
     - **Odin**
     - **Go**
     - **Mojo**
+
 ### 2. What's your programming setup?
   * OS -- [Manjaro Linux](https://manjaro.org/)
   * Terminal -- [Ghostty](https://ghostty.org/)
@@ -46,6 +47,7 @@ Stack Based VM for a New Language
     - CPU: 13th Gen Intel(R) i7-1360p
     - GPU: Intel Iris Xe Graphics
     - MEM: 16g of lovely Ram <3
+
 ### 3. Inspiration
   * [Tsoding](https://github.com/tsoding)
   * [ThePrimeagen](https://github.com/theprimeagen)
