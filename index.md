@@ -2,9 +2,10 @@
 
 ## About Me
 
-Hello! My name is Ashton.
-
-Gimmie that data!!!
+My name is Ashton Sickler and I specialize in data sciences. \
+Core beliefs: 
+ - (almost) everything should be open source
+ - privacy should always be honored.
 
 ## Current Projects
 
@@ -15,13 +16,13 @@ Wordsmith is a terminal game inspired by Scrabble written in Rust
 
 ### [Rust] [nob.rs](https://github.com/mewfinity06/nob.rs)
 
-A port of Tsoding's [nob.h](https://github.com/tsoding/nob.h). He's gonna hate/love this!
+A port of Tsoding's [nob.h](https://github.com/tsoding/nob.h).
 
 ### [Rust] [LatiOS](https://github.com/mewfinity06/latios)
 
 Rust-based OS
 
-### [Zig] [Nova]()
+### [Odin] [Nova]()
 
 Stack Based VM for a New Language
 
@@ -29,10 +30,8 @@ Stack Based VM for a New Language
 
 ### 1. What's your main languages
   * **Rust**
-    - Rust is my favorite language even with that damn Borrow Checker
-    - The semantics are so good <3
-  * **C** - need I explain more?
-  * Maybe my next thing?
+  * **C**
+  * Languages to try
     - **Zig**
     - **Odin**
     - **Go**
@@ -40,9 +39,9 @@ Stack Based VM for a New Language
 
 ### 2. What's your programming setup?
   * OS -- [Manjaro Linux](https://manjaro.org/)
-  * Terminal -- [Ghostty](https://ghostty.org/)
   * Text Editor -- [NeoVim](https://neovim.io/) && [VSC](https://code.visualstudio.com/)
   * Multiplexer -- [Zellij](https://zellij.dev/)
+  * Window Manager -- [i3](https://i3wm.org/)
   * Computer -- Samsung Galaxy Book3 Pro 360 (DO NOT BUY, IT SUCKS)
     - CPU: 13th Gen Intel(R) i7-1360p
     - GPU: Intel Iris Xe Graphics
