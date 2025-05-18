@@ -10,21 +10,9 @@ Core beliefs:
 ## Current Projects
 
 <!--[LANG] [PROJ-NAME] (LINK)                                -->
-### [Rust] [Wordsmith](https://github.com/mewfinity06/wordsmith)
+### [Rust]  Starburst   [github](https://github.com/mewfinity06/starburst)
 
-Wordsmith is a terminal game inspired by Scrabble written in Rust
-
-### [Rust] [nob.rs](https://github.com/mewfinity06/nob.rs)
-
-A port of Tsoding's [nob.h](https://github.com/tsoding/nob.h).
-
-### [Rust] [LatiOS](https://github.com/mewfinity06/latios)
-
-Rust-based OS
-
-### [Odin] [Nova]()
-
-Stack Based VM for a New Language
+### [Rust]  Wordsmith   [github](https://github.com/mewfinity06/wordsmith)
 
 ## FAQ
 
